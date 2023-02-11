@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  width: 100%;
+  background-color: rgba(42, 39, 39, 0.923);
+  }
+  .list{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    list-style: none;
+    height: 51px;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
